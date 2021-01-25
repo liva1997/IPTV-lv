@@ -1,0 +1,379 @@
+ #EXTM3U
+#EXTINF:-1,RTK 1 HD AL
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/8360
+#EXTINF:-1,AL:RTK 2
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/8358
+#EXTINF:-1,AL:RTK 3
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/8357
+#EXTINF:-1,AL: RTK 4
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20559
+#EXTINF:-1,AL: RTV 21 HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/33369
+#EXTINF:-1,ALB:RTV 21
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/2769
+#EXTINF:-1,AL:RTV21 HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/8356
+#EXTINF:-1,AL: RTV 21 MIX HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/33370
+#EXTINF:-1,AL: RTV 21 MIX
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20564
+#EXTINF:-1,AL: RTV 21 PLUS HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20563
+#EXTINF:-1,AL: RTV 21 POPULLORE
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20572
+#EXTINF:-1,AL: RTV ISLAM HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/33450
+#EXTINF:-1,AL:RTV Pendimi HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/33449
+#EXTINF:-1,AL: RTV ISLAM
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20558
+#EXTINF:-1,AL: RTV21 JUNIOR
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20567
+#EXTINF:-1,AL: RTV 21 MK HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/33371
+#EXTINF:-1,AL: KTV HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/2217
+#EXTINF:-1,ALB:TV Klan HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/2216
+#EXTINF:-1,AL: KLAN PLUS HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20576
+#EXTINF:-1,AL: KLAN KOSOVA HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/2776
+#EXTINF:-1,AL: KLAN MK HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/33372
+#EXTINF:-1,AL: TOP CHANNEL HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20575
+#EXTINF:-1,AL: KLAN TV HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/33373
+#EXTINF:-1,AL: RTSH HD
+http://iptv.iptivihd.com:8000/b6EMHaaZ0G/CA2DrtGvi2/20565
+#EXTINF:-1,Top Channel
+http://163.172.211.229:8000/live/sula/sula123/28.ts
+#EXTINF:-1,Klan TV
+http://163.172.211.229:8000/live/sula/sula123/27.ts
+#EXTINF:-1,Vizion Plus
+http://163.172.211.229:8000/live/sula/sula123/26.ts
+#EXTINF:-1,Klan plus
+http://163.172.211.229:8000/live/sula/sula123/86.ts
+#EXTINF:-1,news 24
+http://163.172.211.229:8000/live/sula/sula123/75.ts
+#EXTINF:-1,Report tv
+http://163.172.211.229:8000/live/sula/sula123/76.ts
+#EXTINF:-1,Ora news
+http://163.172.211.229:8000/live/sula/sula123/74.ts
+#EXTINF:-1,Alsat
+http://163.172.211.229:8000/live/sula/sula123/87.ts
+#EXTINF:-1,T HD Channel
+http://163.172.211.229:8000/live/sula/sula123/56.ts
+#EXTINF:-1,Film Aksion
+http://163.172.211.229:8000/live/sula/sula123/63.ts
+#EXTINF:-1,Film Komedi
+http://163.172.211.229:8000/live/sula/sula123/58.ts
+#EXTINF:-1,Film Hits
+http://163.172.211.229:8000/live/sula/sula123/59.ts
+#EXTINF:-1,Film Nje HD
+http://163.172.211.229:8000/live/sula/sula123/57.ts
+#EXTINF:-1,Film Dy HD
+http://163.172.211.229:8000/live/sula/sula123/60.ts
+#EXTINF:-1,Film Dram
+http://163.172.211.229:8000/live/sula/sula123/61.ts
+#EXTINF:-1,Film Autor
+http://163.172.211.229:8000/live/sula/sula123/62.ts
+#EXTINF:-1,EXP Shkenca
+http://163.172.211.229:8000/live/sula/sula123/64.ts
+#EXTINF:-1,EXP Natyra
+http://163.172.211.229:8000/live/sula/sula123/65.ts
+#EXTINF:-1,EXP Histori
+http://163.172.211.229:8000/live/sula/sula123/66.ts
+#EXTINF:-1,Cufo
+http://163.172.211.229:8000/live/sula/sula123/43.ts
+#EXTINF:-1,Digi Gold
+http://163.172.211.229:8000/live/sula/sula123/678.ts
+#EXTINF:-1,Bang Bang
+http://163.172.211.229:8000/live/sula/sula123/42.ts
+#EXTINF:-1,Junior
+http://163.172.211.229:8000/live/sula/sula123/41.ts
+#EXTINF:-1,Jolly HD
+http://163.172.211.229:8000/live/sula/sula123/40.ts
+#EXTINF:-1,|AL| RTK SAT
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177065
+#EXTINF:-1,|AL| RTK 1
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177064
+#EXTINF:-1,|AL| RTK 1 HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177063
+#EXTINF:-1,|AL| RTK 2
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177062
+#EXTINF:-1,|AL| RTK 3 HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177061
+#EXTINF:-1,|AL| RTK 4 HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177060
+#EXTINF:-1,|AL| RTV 21 Toksor
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177059
+#EXTINF:-1,|AL| RTV 21 HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177058
+#EXTINF:-1,|AL| KTV Toksor
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177057
+#EXTINF:-1,|AL| KTV HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177056
+#EXTINF:-1,|AL| Klan Kosova Tokesor
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177055
+#EXTINF:-1,|AL| Klan Kosova HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177054
+#EXTINF:-1,|AL| T7 HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177053
+#EXTINF:-1,|AL| TV Dukagjini
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177052
+#EXTINF:-1,|AL| Tribuna Channel
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177051
+#EXTINF:-1,|AL| TOP Channel
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177050
+#EXTINF:-1,|AL| TOP Channel HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177049
+#EXTINF:-1,|AL| KLAN TV
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177048
+#EXTINF:-1,|AL| KLAN HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177047
+#EXTINF:-1,|AL| Klan Plus
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177046
+#EXTINF:-1,|AL| KLAN PLUS HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177045
+#EXTINF:-1,|AL| KLAN Macedonia
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177044
+#EXTINF:-1,|AL| Vizion Plus HD
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177043
+#EXTINF:-1,|AL| Vizion Plus Toksor
+http://netflexx.org:8000/mejo7XvNfd/OHFwNmkgmp/177042
+#EXTINF:-1,ALB: Top Channel HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4945
+#EXTINF:-1,ALB: Top Channel
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4944
+#EXTINF:-1,ALB: Klan HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4943
+#EXTINF:-1,ALB: Klan HD EST
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4942
+#EXTINF:-1,ALB: Klan plus HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4941
+#EXTINF:-1,ALB: Vizion Plus HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4940
+#EXTINF:-1,ALB: Vizion plus Toksor
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4939
+#EXTINF:-1,ALB: RTSH 1 HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4938
+#EXTINF:-1,ALB: RTSH 2 HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4937
+#EXTINF:-1,ALB: RTSH 3 HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4936
+#EXTINF:-1,ALB: RTSH Sport
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4935
+#EXTINF:-1,ALB: Alsat M HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4934
+#EXTINF:-1,ALB: Alsat M (2)
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4933
+#EXTINF:-1,ALB: TV Kopliku
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4931
+#EXTINF:-1,ALB: TV Rozafa
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4930
+#EXTINF:-1,ALB: TV 1 Channel
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4929
+#EXTINF:-1,ALB: Star Plus Shkodra
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4927
+#EXTINF:-1,ALB: Supersonic TV
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4925
+#EXTINF:-1,ALB: TV Apollon
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4922
+#EXTINF:-1,ALB: Syri Blue HD
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4921
+#EXTINF:-1,ALB: Real RTV
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4920
+#EXTINF:-1,ALB: Cameria TV
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4918
+#EXTINF:-1,ALB: Zjarr TV
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4916
+#EXTINF:-1,ALB: Tema
+http://biloiptv.eu.com:8000/soubhi/soubhi123/4914
+#EXTINF:-1,AL: 21 HD Popullore
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59252
+#EXTINF:-1,AL: 7HD
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59251
+#EXTINF:-1,AL: A1 Espana
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59250
+#EXTINF:-1,AL: A1 Islam
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59249
+#EXTINF:-1,AL: A1 Shqiptare
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59248
+#EXTINF:-1,AL: A1 World
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59247
+#EXTINF:-1,AL: ABC News
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59246
+#EXTINF:-1,AL: ALB Action
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59245
+#EXTINF:-1,AL: ALB Anime HD
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59244
+#EXTINF:-1,AL: ALB Folk HD
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59243
+#EXTINF:-1,AL: ALB Humor 1
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59242
+#EXTINF:-1,AL: ALB Humor 2
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59241
+#EXTINF:-1,AL: Alb Music
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59240
+#EXTINF:-1,AL: ALB Thriller
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59239
+#EXTINF:-1,AL: ALB UK TV
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59237
+#EXTINF:-1,AL: ALB Western
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59236
+#EXTINF:-1,AL: Albanian Culture NY
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59235
+#EXTINF:-1,AL: Alsat M HD
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59234
+#EXTINF:-1,AL: Amol TV
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59233
+#EXTINF:-1,AL: Apollon TV
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59232
+#EXTINF:-1,AL: Arta News
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59231
+#EXTINF:-1,AL: Baby TV
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59230
+#EXTINF:-1,AL: Bang Bang
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59229
+#EXTINF:-1,AL: BBF Music
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/59228
+#EXTINF:-1,AL: Fight Box HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/24342
+#EXTINF:-1,AL: MRT 2
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/8902
+#EXTINF:-1,AL: Fox Channel
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/18428
+#EXTINF:-1,AL: Fox Life
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/18430
+#EXTINF:-1,AL: Comedy Central Extra
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/18438
+#EXTINF:-1,AL: My Music HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6553
+#EXTINF:-1,AL: TV Opoja HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6566
+#EXTINF:-1,AL: Zico TV
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6567
+#EXTINF:-1,AL: Click HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6558
+#EXTINF:-1,AL: Syri Blu Music HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/8433
+#EXTINF:-1,AL: TV Llapi
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/17398
+#EXTINF:-1,AL: Besa TV
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/8431
+#EXTINF:-1,AL: TNT TV
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6562
+#EXTINF:-1,AL: IN TV
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6592
+#EXTINF:-1,AL:RTV BUJANOVC
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/8968
+#EXTINF:-1,AL:RTV PRESHEVA
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/8967
+#EXTINF:-1,AL: Star Plus Shkodër HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6591
+#EXTINF:-1,AL:TV Kopliku HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/10891
+#EXTINF:-1,AL: TV Mitrovica
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/7129
+#EXTINF:-1,AL: TV1 Channel Shokder
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6614
+#EXTINF:-1,AL: TV Dukagjini
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6610
+#EXTINF:-1,AL: Tema TV
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6604
+#EXTINF:-1,AL: Sky Music HD
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/8859
+#EXTINF:-1,AL: TV Jug
+http://123iptv.nl:88/n1Tte8frk9/1HYCVyLcVK/6984
+#EXTINF:-1,AL | 21 MIX
+http://jokeriptv.online:1453/servet/servet27/119429
+#EXTINF:-1,AL | 21 PLUS
+http://jokeriptv.online:1453/servet/servet27/119428
+#EXTINF:-1,AL | 24 KITCHEN HD
+http://jokeriptv.online:1453/servet/servet27/119427
+#EXTINF:-1,AL | 3 PLUS HD
+http://jokeriptv.online:1453/servet/servet27/119431
+#EXTINF:-1,AL | 7 NEWS
+http://jokeriptv.online:1453/servet/servet27/119430
+#EXTINF:-1,AL | A-Mol TV
+http://jokeriptv.online:1453/servet/servet27/119426
+#EXTINF:-1,AL | ABC News HD
+http://jokeriptv.online:1453/servet/servet27/119425
+#EXTINF:-1,AL | Adrianet TV
+http://jokeriptv.online:1453/servet/servet27/119424
+#EXTINF:-1,AL | Aksion HD
+http://jokeriptv.online:1453/servet/servet27/119423
+#EXTINF:-1,AL | Al Report
+http://jokeriptv.online:1453/servet/servet27/119422
+#EXTINF:-1,AL | Alb Action HD
+http://jokeriptv.online:1453/servet/servet27/119421
+#EXTINF:-1,AL | ALB CIFTETELI
+http://jokeriptv.online:1453/servet/servet27/119420
+#EXTINF:-1,AL | Alb Comedy
+http://jokeriptv.online:1453/servet/servet27/119419
+#EXTINF:-1,AL | Alb Folk1 HD
+http://jokeriptv.online:1453/servet/servet27/119418
+#EXTINF:-1,AL | ALB HINDI HD
+http://jokeriptv.online:1453/servet/servet27/119417
+#EXTINF:-1,AL | ALB Hits HD
+http://jokeriptv.online:1453/servet/servet27/119416
+#EXTINF:-1,AL | Alb Horror HD
+http://jokeriptv.online:1453/servet/servet27/119415
+#EXTINF:-1,AL | Alb Humor
+http://jokeriptv.online:1453/servet/servet27/119414
+#EXTINF:-1,AL | Alb Humor 2
+http://jokeriptv.online:1453/servet/servet27/119413
+#EXTINF:-1,AL | Alb Islam
+http://jokeriptv.online:1453/servet/servet27/119412
+#EXTINF:-1,AL | Alb Kids
+http://jokeriptv.online:1453/servet/servet27/119411
+#EXTINF:-1,AL | ALB MUSIC HD
+http://jokeriptv.online:1453/servet/servet27/119410
+#EXTINF:-1,AL | ALB POPULLORE
+http://jokeriptv.online:1453/servet/servet27/119409
+#EXTINF:-1,AL | Alb Swiss HD
+http://jokeriptv.online:1453/servet/servet27/119408
+#EXTINF:-1,AL | Alb Thriller HD
+http://jokeriptv.online:1453/servet/servet27/119407
+#EXTINF:-1,AL: Film Thriller
+http://world.marvelhd.eu:8000/ramazan/23122018/3149
+#EXTINF:-1,AL: Film NJE HD
+http://world.marvelhd.eu:8000/ramazan/23122018/3148
+#EXTINF:-1,AL: Film Komedi
+http://world.marvelhd.eu:8000/ramazan/23122018/3147
+#EXTINF:-1,AL: Film Hits
+http://world.marvelhd.eu:8000/ramazan/23122018/3145
+#EXTINF:-1,AL: Film Gold 1
+http://world.marvelhd.eu:8000/ramazan/23122018/3158
+#EXTINF:-1,AL: Film DY HD
+http://world.marvelhd.eu:8000/ramazan/23122018/3144
+#EXTINF:-1,AL: Film Drama
+http://world.marvelhd.eu:8000/ramazan/23122018/3143
+#EXTINF:-1,AL: Film Autor
+http://world.marvelhd.eu:8000/ramazan/23122018/3142
+#EXTINF:-1,AL: Film Aksion
+http://world.marvelhd.eu:8000/ramazan/23122018/3141
+#EXTINF:-1,AL: Top News
+http://world.marvelhd.eu:8000/ramazan/23122018/3103
+#EXTINF:-1,AL: Top Channel HD
+http://world.marvelhd.eu:8000/ramazan/23122018/3102
+#EXTINF:-1,AL: TiranaTV
+http://world.marvelhd.eu:8000/ramazan/23122018/3116
+#EXTINF:-1,AL: TIP TV
+http://world.marvelhd.eu:8000/ramazan/23122018/3108
+#EXTINF:-1,AL: T HD
+http://world.marvelhd.eu:8000/ramazan/23122018/3161
+#EXTINF:-1,AL: Supersonic TV 1
+http://world.marvelhd.eu:8000/ramazan/23122018/3115
+#EXTINF:-1,AL: Sky Max
+http://world.marvelhd.eu:8000/ramazan/23122018/3157
+#EXTINF:-1,AL: RTV 21
+http://world.marvelhd.eu:8000/ramazan/23122018/3093
+#EXTINF:-1,AL: RTV 21 HD
+http://world.marvelhd.eu:8000/ramazan/23122018/3094
+#EXTINF:-1,AL: RTV 21 HD Popullore
+http://world.marvelhd.eu:8000/ramazan/23122018/3096
+#EXTINF:-1,AL: RTV 21 HD Plus
+http://world.marvelhd.eu:8000/ramazan/23122018/3095
